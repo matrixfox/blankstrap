@@ -7,5 +7,9 @@
 </footer>
 </div>
 <?php wp_footer(); ?>
+<!-- Google hosted jQuery minified JavaScript -->
+<script src='<?php bloginfo('stylesheet_directory'); ?>/js/jquery.min.js' type='text/javascript'></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="<?php bloginfo('stylesheet_directory'); ?>/js/bootstrap.min.js"></script>
 </body>
 </html>
