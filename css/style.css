@@ -126,6 +126,16 @@ section {
 .clear {
   clear: both;
 }
+code {
+  white-space: inherit;
+}
+/*
+ * Woocommerce Resets
+-------------------------------------------------- */
+.woocommerce .woocommerce-breadcrumb,
+.woocommerce-page .woocommerce-breadcrumb {
+  margin: 0 0 0em;
+}
 /* Main Style Sheet */
 /* iPhone Media Queries */
 /* iPad Media Queries */
