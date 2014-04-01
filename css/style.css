@@ -129,6 +129,16 @@ section {
 code {
   white-space: inherit;
 }
+textarea {
+  max-width: 100%;
+}
+/*
+ * Bootstrap Resets
+-------------------------------------------------- */
+.alert,
+.breadcrumb {
+  margin-bottom: 0px;
+}
 /*
  * Woocommerce Resets
 -------------------------------------------------- */
@@ -137,6 +147,9 @@ code {
   margin: 0 0 0em;
 }
 /* Main Style Sheet */
+/*
+ * Main Globals
+-------------------------------------------------- */
 /* iPhone Media Queries */
 /* iPad Media Queries */
 /* Desktop Media Queries */
