@@ -6,7 +6,3 @@ Thank you everyone that made this project possible! Remember never to never give
 
 © 2014 Matrixfox
 The MIT License (MIT)
-
-- - SUPPORT - -
-
-Goodluck...
